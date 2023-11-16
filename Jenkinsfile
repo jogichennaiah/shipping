@@ -2,5 +2,5 @@
 
 env.COMPONENT="shipping"
 env.APPTYPE="maven"
-env.NEXUS_URL="172.31.17.146"
+env.NEXUS_URL="172.31.89.43"
 maven()
