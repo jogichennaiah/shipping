@@ -1,6 +1,6 @@
 @Library('roboshop-shared-library@main') _
 
-env.REPONAME="catalogue"
+env.REPONAME="payment"
 env.TFDIR="mutable-infra"
 backendInfra()
 
